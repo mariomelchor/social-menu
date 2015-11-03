@@ -5,16 +5,13 @@
 .list li {
 	list-style: none;
 }
-.list-inline li {
-	float: left;
-	display: inline;
-}
 .list-social li {
 	display: inline-block;
 	text-indent: -9999px;
 	overflow: hidden;
 }
 .list-social a {
+	text-align: left;
 	width: 32px;
 	height: 32px;
 	text-decoration: none;
