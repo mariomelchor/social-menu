@@ -9,9 +9,9 @@
 	display: inline-block;
 	text-indent: -9999px;
 	overflow: hidden;
+	text-align: left;
 }
 .list-social a {
-	text-align: left;
 	width: 32px;
 	height: 32px;
 	line-height: 32px;
